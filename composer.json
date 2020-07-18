@@ -1,11 +1,11 @@
 {
-  "name": "graze/parallel-process",
+  "name": "bossman/parallel-process",
   "description": "run a pool of processes simultaneously",
   "keywords": [
     "graze",
     "parallel-process"
   ],
-  "homepage": "https://github.com/graze/parallel-process",
+  "homepage": "https://github.com/Bossman1337/parallel-process",
   "license": "MIT",
   "authors": [
     {
