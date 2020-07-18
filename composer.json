@@ -20,14 +20,7 @@
       "role": "Development Team"
     }
   ],
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/Bossman1337/parallel-process"
-    }
-  ],
   "require": {
-    "graze/parallel-process": "dev-master",
     "php": "^5.5 | ^7.0",
     "symfony/process": "^2.8 | ^3.2 | ^4.0 | ^5.0",
     "graze/data-structure": "^2.0",
